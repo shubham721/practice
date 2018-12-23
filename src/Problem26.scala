@@ -29,4 +29,5 @@ object Problem26 {
   def xyz()={
     print("dafs")
   }
+
 }
