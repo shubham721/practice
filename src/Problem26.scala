@@ -21,4 +21,13 @@ object Problem26 {
   def printHello()={
     print("hello world");
   }
+
+  def printHelloWorld()={
+    print("xyz");
+  }
+
+  def xyz()={
+    print("dafs")
+  }
+
 }
