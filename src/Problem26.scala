@@ -17,4 +17,16 @@ object Problem26 {
       combinations(i - 1, sl.tail) map {sl.head :: _}
     }
   }
+
+  def printHello()={
+    print("hello world");
+  }
+
+  def printHelloWorld()={
+    print("xyz");
+  }
+
+  def xyz()={
+    print("dafs")
+  }
 }
